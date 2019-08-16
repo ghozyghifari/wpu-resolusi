@@ -1,0 +1,7 @@
+halo pak, salam kenal nama saya Ghozy dari Surabaya
+
+Resolusi saya :
+- Membuat website
+ *menggunakan javascript
+ *menggunakan framework javascript
+ 
